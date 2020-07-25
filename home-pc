@@ -1,32 +1,24 @@
-<table style="height: 313px; width: 909px;" align="center">
+<table style="height: 389px; width: 1089px;">
 <tbody>
 <tr>
-<td style="width: 288px;">
-<div class="card" style="width: 18rem;"><img class="card-img-top" src="images/pictures/news.jpg" alt="Card image cap" width="305" height="181" />
-<div class="card-body"><img src="images/pictures/hot.png" width="52" height="52" /><br />Card title
-<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-<a href="#">Read more...</a></div>
-</div>
-</td>
-<td style="width: 288px;">
-<div class="card" style="width: 18rem;"><img class="card-img-top" src="images/pictures/news.jpg" alt="Card image cap" width="305" height="181" />
-<div class="card-body"><img src="images/pictures/hot.png" width="52" height="52" /><br />Card title
-<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-<a href="#">Read more...</a></div>
-</div>
-</td>
-<td style="width: 288px;">
-<div class="card" style="width: 18rem;"><img class="card-img-top" src="images/pictures/news.jpg" alt="Card image cap" width="305" height="181" />
-<div class="card-body"><img src="images/pictures/hot.png" width="52" height="52" /><br />Card title
-<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-<a href="#">Read more...</a></div>
-</div>
-</td>
+<td style="width: 622.182px;" rowspan="3"><img class="card-img-top" src="images/pictures/news.jpg" alt="Card image cap" width="615" height="372" /></td>
+<td style="width: 206.182px;"><img class="card-img-top" src="images/pictures/news.jpg" alt="Card image cap" width="178" height="110" /></td>
+<td style="width: 241.091px;">wefwefvervvvvvvvvvvvvvvvvvvvv<br />wefwef</td>
+</tr>
+<tr>
+<td style="width: 206.182px;"><img class="card-img-top" src="images/pictures/news.jpg" alt="Card image cap" width="178" height="110" /></td>
+<td style="width: 241.091px;">wefwef<br />wefwef</td>
+</tr>
+<tr>
+<td style="width: 206.182px;"><img class="card-img-top" src="images/pictures/news.jpg" alt="Card image cap" width="178" height="110" /></td>
+<td style="width: 241.091px;">wefwef<br />wefwef</td>
 </tr>
 </tbody>
 </table>
 <p> </p>
-<div class="card"> </div>
+<p> </p>
+<p> </p>
+<p> </p>
 <div class="card" style="width: 100%;"> </div>
 <div id="gdlr-core-wrapper-1" class="gdlr-core-pbf-wrapper  hp1-col-services" style="margin: -43px auto 0px auto; padding: 0px 0px 0px 0px; max-width: 1320px;" data-skin="Blue Title">
 <div class="gdlr-core-pbf-background-wrap"> </div>
@@ -109,9 +101,8 @@
 <div class="card-header"><strong>ข่าวประชาสัมพันธ์การฝึกงาน/สหกิจ</strong></div>
 <div class="card-body">
 <blockquote class="blockquote mb-0">
-<p><a href="https://www.facebook.com/"><span class="badge badge-warning">CLICK !</span> CLICK!</a> </p>
+<p><a href="https://www.facebook.com/"><span class="badge badge-warning">CLICK !</span> CLICK!</a></p>
 </blockquote>
-</div>
 </div>
 </div>
 </div>
@@ -144,9 +135,8 @@
 <div class="card-header"><strong>ข่าวประชาสัมพันธ์การรับสมัครงาน</strong></div>
 <div class="card-body">
 <blockquote class="blockquote mb-0">
-<p><a href="https://www.facebook.com/photo.php?fbid=2180387422106691&amp;set=a.924616041017175&amp;type=3&amp;theater"><span class="badge badge-primary">CLICK !</span> ข่าวการรับสมัครงาน "บริษัท ไทยวีรวัฒน์ จำกัด" ตำแหน่ง วิศวกรไฟฟ้าโครงการ"</a> </p>
+<p><a href="https://www.facebook.com/photo.php?fbid=2180387422106691&amp;set=a.924616041017175&amp;type=3&amp;theater"><span class="badge badge-primary">CLICK !</span> ข่าวการรับสมัครงาน "บริษัท ไทยวีรวัฒน์ จำกัด" ตำแหน่ง วิศวกรไฟฟ้าโครงการ"</a></p>
 </blockquote>
-</div>
 </div>
 </div>
 </div>
@@ -180,8 +170,10 @@
 <div class="card-header"><strong>บริการสุขภาพ</strong></div>
 <div class="card-body">
 <blockquote class="blockquote mb-0">
-<p><a href="https://drive.google.com/file/d/0B6Y3ZLLV0ty5Njlqa2xCUnhTdWM/view"><span class="badge badge-info">CLICK !</span> หลักเกณฑ์และวิธีการรับบริการสุขภาพนักศึกษา มหาวิทยาลัยมหิดล พ.ศ. 2559</a> </p>
+<p><a href="https://drive.google.com/file/d/0B6Y3ZLLV0ty5Njlqa2xCUnhTdWM/view"><span class="badge badge-info">CLICK !</span> หลักเกณฑ์และวิธีการรับบริการสุขภาพนักศึกษา มหาวิทยาลัยมหิดล พ.ศ. 2559</a></p>
 </blockquote>
+</div>
+</div>
 </div>
 </div>
 </div>
