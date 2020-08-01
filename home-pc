@@ -1,27 +1,36 @@
-<table style="height: 389px; width: 1089px;">
+<table style="height: 389px; width: 100%;">
 <tbody>
 <tr>
-<td style="width: 622.182px;" rowspan="3"><img class="card-img-top" src="images/pictures/news.jpg" alt="Card image cap" width="615" height="372" /></td>
-<td style="width: 206.182px;"><img class="card-img-top" src="images/pictures/news.jpg" alt="Card image cap" width="178" height="110" /></td>
-<td style="width: 241.091px;">wefwefvervvvvvvvvvvvvvvvvvvvv<br />wefwef</td>
+<td style="width: 622.182px;" rowspan="3">
+<div><span style="font-family: 'comic sans ms', sans-serif;"><img class="card-img-top" src="images/pictures/news.jpg" alt="Card image cap" width="615" height="372" /></span>
+<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 23px; top: 286px; z-index: 9;">
+<div class="tp-loop-wrap" style="position: absolute; display: block;">
+<div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;">
+<div id="slide-1-layer-1" class="tp-caption   tp-resizeme rs-toggle-content-active" style="z-index: 5; white-space: nowrap; font-size: 23px; line-height: 23px; font-weight: 300; color: #ffffff; letter-spacing: 0px; font-family: Kanit; visibility: inherit; transition: none 0s ease 0s; text-align: inherit; border-width: 0px; margin: 0px; padding: 0px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;" data-x="38" data-y="center" data-voffset="-146" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:300,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">มหาวิทยาลัยที่ดีชั้นนำระดับประเทศ</div>
+</div>
+<br /> <br />
+<div id="slide-1-layer-6" class="tp-caption rev-btn rev-hiddenicon  rs-hover-ready" style="z-index: 9; white-space: nowrap; font-size: 12px; line-height: 11px; font-weight: 600; color: #2d2d2d; letter-spacing: 0px; font-family: Poppins; background-color: #ffffff; border-color: #3db166; border-style: solid; border-width: 0px 0px 0px 5px; outline: none; box-shadow: #999999 0px 0px 0px 0px; box-sizing: border-box; cursor: pointer; visibility: inherit; transition: none 0s ease 0s; text-align: inherit; margin: 0px; padding: 13px 15px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;" data-x="34" data-y="center" data-voffset="80" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:660,&quot;speed&quot;:300,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;frame&quot;:&quot;hover&quot;,&quot;speed&quot;:&quot;0&quot;,&quot;ease&quot;:&quot;Linear.easeNone&quot;,&quot;to&quot;:&quot;o:1;rX:0;rY:0;rZ:0;z:0;&quot;,&quot;style&quot;:&quot;c:rgb(1,61,135);bg:rgba(255,255,255,1);bw:0 0 0 5px;&quot;}]" data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[19,19,19,19]" data-paddingright="[21,21,21,21]" data-paddingbottom="[19,19,19,19]" data-paddingleft="[21,21,21,21]"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;"><a href="https://www.siamroute.com/">Read more...</a></span></div>
+</div>
+</div>
+<div class="tp-loop-wrap" style="position: absolute; display: block;"><span style="font-family: 'comic sans ms', sans-serif;"> </span></div>
+</div>
+</td>
+<td style="width: 206.182px;"><span style="font-family: 'comic sans ms', sans-serif;"><img class="card-img-top" src="images/pictures/news.jpg" alt="Card image cap" width="178" height="110" /></span></td>
+<td style="width: 241.091px;"><span style="font-family: 'comic sans ms', sans-serif;">wefwefvervvvvvvvvvvvvvvvvvvvv</span><br /><span style="font-family: 'comic sans ms', sans-serif;">wefwef</span></td>
 </tr>
 <tr>
-<td style="width: 206.182px;"><img class="card-img-top" src="images/pictures/news.jpg" alt="Card image cap" width="178" height="110" /></td>
-<td style="width: 241.091px;">wefwef<br />wefwef</td>
+<td style="width: 206.182px;"><span style="font-family: 'comic sans ms', sans-serif;"><img class="card-img-top" src="images/pictures/news.jpg" alt="Card image cap" width="178" height="110" /></span></td>
+<td style="width: 241.091px;"><span style="font-family: 'comic sans ms', sans-serif;">wefwef</span><br /><span style="font-family: 'comic sans ms', sans-serif;">wefwef</span></td>
 </tr>
 <tr>
-<td style="width: 206.182px;"><img class="card-img-top" src="images/pictures/news.jpg" alt="Card image cap" width="178" height="110" /></td>
-<td style="width: 241.091px;">wefwef<br />wefwef</td>
+<td style="width: 206.182px;"><span style="font-family: 'comic sans ms', sans-serif;"><img class="card-img-top" src="images/pictures/news.jpg" alt="Card image cap" width="178" height="110" /></span></td>
+<td style="width: 241.091px;"><span style="font-family: 'comic sans ms', sans-serif;">wefwef</span><br /><span style="font-family: 'comic sans ms', sans-serif;">wefwef</span></td>
 </tr>
 </tbody>
 </table>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<div class="card" style="width: 100%;"> </div>
+<p><span style="font-family: 'comic sans ms', sans-serif;"> </span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"> </span></p>
 <div id="gdlr-core-wrapper-1" class="gdlr-core-pbf-wrapper  hp1-col-services" style="margin: -43px auto 0px auto; padding: 0px 0px 0px 0px; max-width: 1320px;" data-skin="Blue Title">
-<div class="gdlr-core-pbf-background-wrap"> </div>
 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space">
 <div class=" gdlr-core-pbf-wrapper-container-inner gdlr-core-item-mglr clearfix" style="box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); -moz-box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); -webkit-box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); background-color: #ffffff; border-radius: 3px 3px; -moz-border-radius: 3px 3px; -webkit-border-radius: 3px 3px;">
@@ -32,10 +41,10 @@
 <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-with-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
 <div class="gdlr-core-column-service-media gdlr-core-media-image">
 <div class="card">
-<div class="card-header"><strong>ข่าวประชาสัมพันธ์ทั่วไป</strong></div>
+<div class="card-header"><span style="font-family: 'comic sans ms', sans-serif;"><strong>ข่าวประชาสัมพันธ์ทั่วไป</strong></span></div>
 <div class="card-body">
 <blockquote class="blockquote mb-0" style="width: 100%;">
-<p><a href="https://facebook.com/qr?id=2969055219814935"><span class="badge badge-success">CLICK !</span> Internet Package สำหรับนักศึกษาระยะที่ 2 เพื่อการเรียนออนไลน์ฯ ความเร็ว 4 Mbps (ไม่ลดสปีด) ฟรี</a> </p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"><a href="https://facebook.com/qr?id=2969055219814935"><span class="badge badge-success">CLICK !</span> Internet Package สำหรับนักศึกษาระยะที่ 2 เพื่อการเรียนออนไลน์ฯ ความเร็ว 4 Mbps (ไม่ลดสปีด) ฟรี</a> </span></p>
 </blockquote>
 </div>
 </div>
@@ -49,10 +58,10 @@
 </div>
 </div>
 </div>
-<p> </p>
-<div class="card" style="width: 100%;"> </div>
+<p><span style="font-family: 'comic sans ms', sans-serif;"> </span></p>
+<div class="card" style="width: 100%;"><span style="font-family: 'comic sans ms', sans-serif;"> </span></div>
 <div id="gdlr-core-wrapper-1" class="gdlr-core-pbf-wrapper  hp1-col-services" style="margin: -43px auto 0px auto; padding: 0px 0px 0px 0px; max-width: 1320px;" data-skin="Blue Title">
-<div class="gdlr-core-pbf-background-wrap"> </div>
+<div class="gdlr-core-pbf-background-wrap"><span style="font-family: 'comic sans ms', sans-serif;"> </span></div>
 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space">
 <div class=" gdlr-core-pbf-wrapper-container-inner gdlr-core-item-mglr clearfix" style="box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); -moz-box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); -webkit-box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); background-color: #ffffff; border-radius: 3px 3px; -moz-border-radius: 3px 3px; -webkit-border-radius: 3px 3px;">
@@ -64,44 +73,10 @@
 <div class="gdlr-core-column-service-media gdlr-core-media-image">
 <div class="card">
 <div class="card-header">
-<div class="card-header"><strong>ข่าวประชาสัมพันธ์ทุนการศึกษา</strong></div>
+<div class="card-header"><span style="font-family: 'comic sans ms', sans-serif;"><strong>ข่าวประชาสัมพันธ์ทุนการศึกษา</strong></span></div>
 <div class="card-body">
 <blockquote class="blockquote mb-0">
-<p><a href="https://drive.google.com/file/d/1Axyt3-4oWL8lvTuWOYxRFOaAsea3tCCU/view?fbclid=IwAR1PsdepCzeeK6Z3DT0wkDXoOxSgI5-1pb0GVuOn6TviM8hCmqHFd9GdWaM"><span class="badge badge-primary">CLICK !</span> การสนับสนุนเงินอุดหนุนทางการศึกษาสำหรับนักศึกษาพิการ (ทุนไม่มีข้อผูกมัด)</a></p>
-</blockquote>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<p> </p>
-<div class="card" style="width: 100%;"> </div>
-<div id="gdlr-core-wrapper-1" class="gdlr-core-pbf-wrapper  hp1-col-services" style="margin: -43px auto 0px auto; padding: 0px 0px 0px 0px; max-width: 1320px;" data-skin="Blue Title">
-<div class="gdlr-core-pbf-background-wrap"> </div>
-<div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-<div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space">
-<div class=" gdlr-core-pbf-wrapper-container-inner gdlr-core-item-mglr clearfix" style="box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); -moz-box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); -webkit-box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); background-color: #ffffff; border-radius: 3px 3px; -moz-border-radius: 3px 3px; -webkit-border-radius: 3px 3px;">
-<div class="gdlr-core-pbf-column gdlr-core-column-15 gdlr-core-column-first">
-<div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 52px 0px 0px 66px;">
-<div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-<div class="gdlr-core-pbf-element">
-<div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-with-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
-<div class="gdlr-core-column-service-media gdlr-core-media-image">
-<div class="card">
-<div class="card-header">
-<div class="card-header">
-<div class="card-header"><strong>ข่าวประชาสัมพันธ์การฝึกงาน/สหกิจ</strong></div>
-<div class="card-body">
-<blockquote class="blockquote mb-0">
-<p><a href="https://www.facebook.com/"><span class="badge badge-warning">CLICK !</span> CLICK!</a></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"><a href="https://drive.google.com/file/d/1Axyt3-4oWL8lvTuWOYxRFOaAsea3tCCU/view?fbclid=IwAR1PsdepCzeeK6Z3DT0wkDXoOxSgI5-1pb0GVuOn6TviM8hCmqHFd9GdWaM"><span class="badge badge-primary">CLICK !</span> การสนับสนุนเงินอุดหนุนทางการศึกษาสำหรับนักศึกษาพิการ (ทุนไม่มีข้อผูกมัด)</a></span></p>
 </blockquote>
 </div>
 </div>
@@ -116,10 +91,10 @@
 </div>
 </div>
 </div>
-<p> </p>
-<div class="card" style="width: 100%;"> </div>
+<p><span style="font-family: 'comic sans ms', sans-serif;"> </span></p>
+<div class="card" style="width: 100%;"><span style="font-family: 'comic sans ms', sans-serif;"> </span></div>
 <div id="gdlr-core-wrapper-1" class="gdlr-core-pbf-wrapper  hp1-col-services" style="margin: -43px auto 0px auto; padding: 0px 0px 0px 0px; max-width: 1320px;" data-skin="Blue Title">
-<div class="gdlr-core-pbf-background-wrap"> </div>
+<div class="gdlr-core-pbf-background-wrap"><span style="font-family: 'comic sans ms', sans-serif;"> </span></div>
 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space">
 <div class=" gdlr-core-pbf-wrapper-container-inner gdlr-core-item-mglr clearfix" style="box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); -moz-box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); -webkit-box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); background-color: #ffffff; border-radius: 3px 3px; -moz-border-radius: 3px 3px; -webkit-border-radius: 3px 3px;">
@@ -132,10 +107,10 @@
 <div class="card">
 <div class="card-header">
 <div class="card-header">
-<div class="card-header"><strong>ข่าวประชาสัมพันธ์การรับสมัครงาน</strong></div>
+<div class="card-header"><span style="font-family: 'comic sans ms', sans-serif;"><strong>ข่าวประชาสัมพันธ์การฝึกงาน/สหกิจ</strong></span></div>
 <div class="card-body">
 <blockquote class="blockquote mb-0">
-<p><a href="https://www.facebook.com/photo.php?fbid=2180387422106691&amp;set=a.924616041017175&amp;type=3&amp;theater"><span class="badge badge-primary">CLICK !</span> ข่าวการรับสมัครงาน "บริษัท ไทยวีรวัฒน์ จำกัด" ตำแหน่ง วิศวกรไฟฟ้าโครงการ"</a></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"><a href="https://www.facebook.com/"><span class="badge badge-warning">CLICK !</span> CLICK!</a></span></p>
 </blockquote>
 </div>
 </div>
@@ -150,10 +125,44 @@
 </div>
 </div>
 </div>
-<p> </p>
-<div class="card" style="width: 100%;"> </div>
+<p><span style="font-family: 'comic sans ms', sans-serif;"> </span></p>
+<div class="card" style="width: 100%;"><span style="font-family: 'comic sans ms', sans-serif;"> </span></div>
 <div id="gdlr-core-wrapper-1" class="gdlr-core-pbf-wrapper  hp1-col-services" style="margin: -43px auto 0px auto; padding: 0px 0px 0px 0px; max-width: 1320px;" data-skin="Blue Title">
-<div class="gdlr-core-pbf-background-wrap"> </div>
+<div class="gdlr-core-pbf-background-wrap"><span style="font-family: 'comic sans ms', sans-serif;"> </span></div>
+<div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+<div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space">
+<div class=" gdlr-core-pbf-wrapper-container-inner gdlr-core-item-mglr clearfix" style="box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); -moz-box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); -webkit-box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); background-color: #ffffff; border-radius: 3px 3px; -moz-border-radius: 3px 3px; -webkit-border-radius: 3px 3px;">
+<div class="gdlr-core-pbf-column gdlr-core-column-15 gdlr-core-column-first">
+<div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 52px 0px 0px 66px;">
+<div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+<div class="gdlr-core-pbf-element">
+<div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-with-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
+<div class="gdlr-core-column-service-media gdlr-core-media-image">
+<div class="card">
+<div class="card-header">
+<div class="card-header">
+<div class="card-header"><span style="font-family: 'comic sans ms', sans-serif;"><strong>ข่าวประชาสัมพันธ์การรับสมัครงาน</strong></span></div>
+<div class="card-body">
+<blockquote class="blockquote mb-0">
+<p><span style="font-family: 'comic sans ms', sans-serif;"><a href="https://www.facebook.com/photo.php?fbid=2180387422106691&amp;set=a.924616041017175&amp;type=3&amp;theater"><span class="badge badge-primary">CLICK !</span> ข่าวการรับสมัครงาน "บริษัท ไทยวีรวัฒน์ จำกัด" ตำแหน่ง วิศวกรไฟฟ้าโครงการ"</a></span></p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><span style="font-family: 'comic sans ms', sans-serif;"> </span></p>
+<div class="card" style="width: 100%;"><span style="font-family: 'comic sans ms', sans-serif;"> </span></div>
+<div id="gdlr-core-wrapper-1" class="gdlr-core-pbf-wrapper  hp1-col-services" style="margin: -43px auto 0px auto; padding: 0px 0px 0px 0px; max-width: 1320px;" data-skin="Blue Title">
+<div class="gdlr-core-pbf-background-wrap"><span style="font-family: 'comic sans ms', sans-serif;"> </span></div>
 <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space">
 <div class=" gdlr-core-pbf-wrapper-container-inner gdlr-core-item-mglr clearfix" style="box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); -moz-box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); -webkit-box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); background-color: #ffffff; border-radius: 3px 3px; -moz-border-radius: 3px 3px; -webkit-border-radius: 3px 3px;">
@@ -167,10 +176,10 @@
 <div class="card-header">
 <div class="card-header">
 <div class="card-header">
-<div class="card-header"><strong>บริการสุขภาพ</strong></div>
+<div class="card-header"><span style="font-family: 'comic sans ms', sans-serif;"><strong>บริการสุขภาพ</strong></span></div>
 <div class="card-body">
 <blockquote class="blockquote mb-0">
-<p><a href="https://drive.google.com/file/d/0B6Y3ZLLV0ty5Njlqa2xCUnhTdWM/view"><span class="badge badge-info">CLICK !</span> หลักเกณฑ์และวิธีการรับบริการสุขภาพนักศึกษา มหาวิทยาลัยมหิดล พ.ศ. 2559</a></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"><a href="https://drive.google.com/file/d/0B6Y3ZLLV0ty5Njlqa2xCUnhTdWM/view"><span class="badge badge-info">CLICK !</span> หลักเกณฑ์และวิธีการรับบริการสุขภาพนักศึกษา มหาวิทยาลัยมหิดล พ.ศ. 2559</a></span></p>
 </blockquote>
 </div>
 </div>
