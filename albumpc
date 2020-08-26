@@ -1,0 +1,238 @@
+<p> </p>
+<!-- Nav tabs -->
+<ul id="myTab" class="nav nav-tabs">
+<li class="nav-item"><a id="home-tab" class="nav-link active" href="#home" data-toggle="tab">รวมค่ายวิศวะ</a></li>
+<li class="nav-item"><a id="profile-tab" class="nav-link" href="#profile" data-toggle="tab">งานกีฬาสัมพันธ์</a></li>
+<li class="nav-item"><a id="messages-tab" class="nav-link" href="#messages" data-toggle="tab">กิจกรรมอื่นๆ</a></li>
+</ul>
+<!-- Tab panes -->
+<div class="tab-content">
+<div id="home" class="tab-pane active">
+<table style="height: 312px; margin-left: auto; margin-right: auto;" width="100%">
+<tbody>
+<tr>
+<td style="width: 353.6px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/fs1.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">First Step</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">ค่ายก้าวแรกสู่วิศวะมหิดล กิจกรรมที่จะทำให้น้อง ๆ เฟรชชี่ EG ได้พบกับเพื่อน ๆ และพี่ ๆ ในคณะเป็นครั้งแรก !</span></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+<td style="width: 353.6px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/k1.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">KhanKnot</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">วิศวะฯ มหิดลในความคิดของน้องๆเป็นอย่างไร จะใช่แบบที่คิดหรือไม่ มาทำความรู้จักกันได้ในค่ายอยากเป็นวิศวะฯ มหิดล</span></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+<td style="width: 353.6px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/eyc1.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">EYC</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">🔎ค่ายสำหรับน้อง ม.ปลายที่สนใจวิศวะไฟฟ้า⚡️ค่ายนี้จะทำให้น้องได้รู้จักกับวิศวะไฟฟ้า และได้ทำกิจกรรมสนุกๆ ตลอดค่าย</span></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+<table style="height: 312px; margin-left: auto; margin-right: auto;" width="100%">
+<tbody>
+<tr>
+<td style="width: 353.6px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/ce1.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">CE Camp</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">วิศวโยธาคืออะไร ? วิศวโยธาเป็นแบบไหน ? และน่าสนใจอย่างไร ? หากคำถามเหล่านี้ยังคาใจน้อง ๆ มาหาคำตอบได้ที่นี่</span></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+<td style="width: 353.6px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/e1.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">E Camp</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">ค่ายที่น้อง ๆ นั้นจะได้เรียนรู้และเข้าใจเกี่ยวกับวิศวกรรมไฟฟ้าได้มากขึ้นและยังได้มีโอกาสพบปะกับเพื่อนต่างสถาบัน</span></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+<td style="width: 353.6px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/cc1.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">Click Camp</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">ค่ายที่จะทำให้น้อง ๆ ได้สัมผัสกับการเป็น"วิศวะคอม"ได้ลงมือปฏิบัติจริง พร้อมกับความสนุกสนานอีกมากมายภายในค่าย 🎉</span></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+<table style="height: 312px; margin-left: auto; margin-right: auto;" width="100%" align="center">
+<tbody>
+<tr>
+<td style="width: 353.6px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/ie1.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">IEYC</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">ค่ายสำหรับน้อง ม.ปลายที่สนใจวิศวะอุตสาหการ สัมผัสการเรียนของวิศวะภาคอุตสาหการปกติผ่านการลงช็อป</span></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+<td style="width: 353.6px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/ch1.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">Chem E. Camp</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">ร่วมค้นหาและเปิดประสบการณ์ว่า วิศวกรเคมีจะเป็นอาชีพที่ใช่สำหรับน้องหรือไม่ ได้ใน “ค่าย Chem E. camp</span></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+<td style="width: 353.6px;"> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="profile" class="tab-pane">
+<table style="height: 312px; margin-left: auto; margin-right: auto; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 127px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/mks.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">MUKUSU</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">กีฬาเชื่อมความสัมพันธ์ระหว่างคณะวิศวกรรมศาสตร์ 3 มหาวิทยาลัย วิศวะมหิดล วิศวะเกษตรศาสตร์ และวิศวะศิลปากร</span></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+<td style="width: 197px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/mt.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">MUTU</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">งานกีฬาเชื่อมความสัมพันธ์ระหว่าง คณะวิศวกรรมศาสตร์มหาวิทยาลัยมหิดล และมหาวิทยาลัยธรรมศาสตร์</span></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+<td style="width: 10px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/gg.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">Gear Game</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">การแข่งขันกีฬาของนิสิต นักศึกษาคณะวิศวกรรมศาสตร์จากทุกสถาบันทั่วประเทศไทย ซึ่งจัดโดย สนวท.</span></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+<table style="height: 312px; margin-left: auto; margin-right: auto; width: 100%;" align="center">
+<tbody>
+<tr>
+<td style="width: 142.4px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/4s.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">4SAO</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">งานกีฬาเชื่อมความสัมพันธ์ของ 6 คณะ ระหว่างคณะ SiPi* Py Eg และ ScKa การแข่งขันฟุตบอลประเพณีและคอนเสิร์ต</span></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="messages" class="tab-pane">
+<table style="height: 312px; margin-left: auto; margin-right: auto;" width="100%">
+<tbody>
+<tr>
+<td style="width: 353.6px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/in.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">INCRISIS</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">INCRISIS คอนเสิร์ตที่ยิ่งใหญ่ที่สุดในศาลายา ที่จัดโดยนักศึกษาชั้นปีที่ 1 คณะวิศวกรรมศาสตร์ มหาวิทยาลัยมหิดล</span></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+<td style="width: 353.6px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/oke.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">EGOKE</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">งานแข่งขันประกวดความสามารถทางดนตรีของชาว MU ที่มีใจรักในเสียงเพลง จัดโดยนักศึกษาชั้นปีที่ 1 คณะวิศวกรรมศาสตร์</span></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+<td style="width: 353.6px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/op.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">EG Open House</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">เปิดบ้านวิศวะมหิดล กิจกรรมมากมาย หลายหลายความสนุก ปลุกไฟในตัวเอง กับวิศวะ 7 ภาควิชา</span><br /><br /></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+<table style="height: 312px; margin-left: auto; margin-right: auto;" width="100%">
+<tbody>
+<tr>
+<td style="width: 353.6px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/or.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">ปฐมนิเทศนักศึกษาใหม่</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">กิจกรรมแรกเข้าของนักศึกษาชั้นปีที่ 1 คณะวิศวกรรมศาสตร์ มหาวิทยาลัยมหิดล พบปะพูดคุยกับคณาจารย์ และวิทยากรพิเศษ</span></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+<td style="width: 353.6px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/td.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">พิธีไหว้ครู</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">พิธีไหว้ครูประจำปี ที่จะทำให้นักศึกษาออกแบบทำพานไหว้ครูร่วมกัน เพื่อรำลึกถึงพระคุณครู และพิธีมอบทุนการศึกษาเรียนดี</span></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+<td style="width: 353.6px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/stc.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">กิจกรรมประชุมเชียร์</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">กิจกรรมประชุมเชียร์ หรือ สแตนด์เชียร์ เพื่อสร้างความสามัคคีภายในคณะและมหาวิทยาลัย</span><br /><br /></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+<table style="height: 312px; margin-left: auto; margin-right: auto;" width="100%">
+<tbody>
+<tr>
+<td style="width: 353.6px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/cl.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">เบิกฟ้ากิจกรรม</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">กิจกรรมที่จะทำให้น้องๆเฟรชชี่ EG ได้เลือกชมรมที่ตนเองสนใจ มีทั้งด้านกีฬา ดนตรี และวิชาการ</span><br /><br /></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+<td style="width: 353.6px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/btb.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">Born To Be</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">กิจกรรมที่จะทำให้น้องๆเฟรชชี่ EG ได้ไปศึกษาดูงานที่ต่างจังหวัด และทำกิจกรรมร่วมกับเพื่อนๆในคณะ<br /><br /></span></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+<td style="width: 353.6px;">
+<div class="card" style="width: 18rem;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><img class="card-img-top" src="images/atp/gr.jpg" alt="Card image cap" /></span>
+<div class="card-body">
+<h5 class="card-title"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">รับพระราชทานปริญญาบัตร</span></h5>
+<p class="card-text"><span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;">พิธีพระราชทานปริญญาบัตรแก่ผู้สำเร็จการศึกษา มหาวิทยาลัยมหิดล (คณะวิศวกรรมศาสตร์)</span><br /><br /></p>
+<span style="font-family: 'comic sans ms', sans-serif; font-size: 10pt;"><a class="btn btn-primary" href="#">See more</a></span></div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
